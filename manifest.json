@@ -1,0 +1,15 @@
+{
+    "background_color": "white",
+    "description": "Мой план тренировок",
+    "display": "fullscreen",
+    "icons":[
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "Мой план тренировок на 3 дня",
+    "short_name": "Training plan",
+    "start_url": "/"
+}
